@@ -8,4 +8,4 @@
 (live-load-config-file "expand-region-conf.el")
 (live-load-config-file "evil-conf.el")
 
-(set-face-attribute 'default nil :font "Source Code Pro-11")
+(set-face-attribute 'default nil :font "Source Code Pro-13")
