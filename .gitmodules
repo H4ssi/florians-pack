@@ -4,3 +4,6 @@
 [submodule "lib/evil"]
 	path = lib/evil
 	url = https://gitorious.org/evil/evil.git
+[submodule "lib/evil-paredit"]
+	path = lib/evil-paredit
+	url = https://github.com/roman/evil-paredit.git
