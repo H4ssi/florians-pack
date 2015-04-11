@@ -5,6 +5,7 @@
 
 ;; Load bindings config
 (live-load-config-file "bindings.el")
+(live-load-config-file "solarized-theme-conf.el")
 (live-load-config-file "expand-region-conf.el")
 (live-load-config-file "evil-conf.el")
 (live-load-config-file "evil-paredit-conf.el")

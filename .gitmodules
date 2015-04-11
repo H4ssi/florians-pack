@@ -7,3 +7,6 @@
 [submodule "lib/evil-paredit"]
 	path = lib/evil-paredit
 	url = https://github.com/roman/evil-paredit.git
+[submodule "lib/emacs-color-theme-solarized"]
+	path = lib/emacs-color-theme-solarized
+	url = https://github.com/sellout/emacs-color-theme-solarized.git
